@@ -1,0 +1,13 @@
+C:\Users\55859\Documents\Projects\Interface1\Interface1\bin\Debug\netcoreapp3.1\Interface1.exe
+C:\Users\55859\Documents\Projects\Interface1\Interface1\bin\Debug\netcoreapp3.1\Interface1.deps.json
+C:\Users\55859\Documents\Projects\Interface1\Interface1\bin\Debug\netcoreapp3.1\Interface1.runtimeconfig.json
+C:\Users\55859\Documents\Projects\Interface1\Interface1\bin\Debug\netcoreapp3.1\Interface1.runtimeconfig.dev.json
+C:\Users\55859\Documents\Projects\Interface1\Interface1\bin\Debug\netcoreapp3.1\Interface1.dll
+C:\Users\55859\Documents\Projects\Interface1\Interface1\bin\Debug\netcoreapp3.1\Interface1.pdb
+C:\Users\55859\Documents\Projects\Interface1\Interface1\obj\Debug\netcoreapp3.1\Interface1.csprojAssemblyReference.cache
+C:\Users\55859\Documents\Projects\Interface1\Interface1\obj\Debug\netcoreapp3.1\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\55859\Documents\Projects\Interface1\Interface1\obj\Debug\netcoreapp3.1\Interface1.AssemblyInfoInputs.cache
+C:\Users\55859\Documents\Projects\Interface1\Interface1\obj\Debug\netcoreapp3.1\Interface1.AssemblyInfo.cs
+C:\Users\55859\Documents\Projects\Interface1\Interface1\obj\Debug\netcoreapp3.1\Interface1.dll
+C:\Users\55859\Documents\Projects\Interface1\Interface1\obj\Debug\netcoreapp3.1\Interface1.pdb
+C:\Users\55859\Documents\Projects\Interface1\Interface1\obj\Debug\netcoreapp3.1\Interface1.genruntimeconfig.cache
